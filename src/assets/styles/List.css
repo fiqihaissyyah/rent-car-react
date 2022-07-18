@@ -1,0 +1,77 @@
+.child-title {
+    border-left: 4px solid #0D28A6;
+    padding-left: 7px;
+}
+
+.title a {
+    background: #0D28A6;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.filter-car .btn-filter {
+    border: 1px solid #AEB7E1;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #AEB7E1;
+    background: white;
+}
+
+.wrap-img-car {
+    padding: 1.5rem 1.5rem 0 1.5rem;
+}
+
+.wrap-img-car img {
+    margin: 31px 17px;
+}
+
+.body-card {
+    padding: 1rem 1.5rem;
+}
+
+.name-car {
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+}
+  
+.price-car {
+    font-family: Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+}
+  
+.date-rent p {
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px;
+    text-align: left;
+}
+  
+.date-update p {
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px;
+    text-align: left;
+}

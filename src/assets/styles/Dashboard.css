@@ -1,0 +1,57 @@
+.dashboard {
+    background-color: #f4f5f7;
+    height: 100vh;
+    margin-left: 0;
+  }
+  
+  .dashboard .main-menu {
+    width: 70px;
+    height: 100vh;
+    background-color: #0d28a6;
+    margin-top: -62px;
+    z-index: 1;
+  }
+  
+  .dashboard .main-menu-rectangle {
+    width: 34px;
+    height: 34px;
+    background-color: #cfd4ed;
+  }
+  
+  .dashboard .home {
+    padding-top: 12px;
+    padding-bottom: 1px;
+  }
+  .dashboard p {
+    font-size: 12px;
+  }
+  
+  .dashboard .car {
+    background: rgba(255, 255, 255, 0.3);
+    padding-top: 12px;
+    padding-bottom: 1px;
+  }
+  
+  .dashboard .side-bar {
+    width: 220px;
+    height: 92vh;
+  }
+  
+  .dashboard .side-bar h3 {
+    color: #8a8a8a;
+    font-weight: 700;
+    font-size: 14px;
+    margin-top: 34px;
+    margin-left: 24px;
+  }
+  
+.dashboard .side-bar p {
+    background-color: #cfd4ed;
+    margin-top: 28px;
+    padding-left: 24px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    font-weight: bold;
+    font-size: 14px;
+}
+  
